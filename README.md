@@ -7,6 +7,9 @@ A lightweight GPT-style chatbot trained from scratch on Shakespeare’s *Coriola
 Check out the live demo on Hugging Face Spaces:  
 👉 [BardGPT – Shakespearean Chatbot](https://huggingface.co/spaces/dhruv78/GPT-124M-ScratchBot)
 
+![image](https://github.com/user-attachments/assets/b31cfdcd-b5a1-4ae9-b29f-2af6b4c404c4)
+
+
 ## 🏗️ Architecture
 
 - GPT-style decoder-only transformer
