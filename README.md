@@ -25,4 +25,5 @@ Check out the live demo on Hugging Face Spaces:
 
 After training the model to a loss of 0.098616 on Shakespeare’s *Coriolanus*, it is deployed as a chatbot using Gradio. It generates text in a Shakespearean style and mimics the format of a stage play.
 
+![image](https://github.com/user-attachments/assets/00875945-5bad-4ee7-bd82-2667a5cfc001)
 
