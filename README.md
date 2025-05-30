@@ -19,14 +19,10 @@ Check out the live demo on Hugging Face Spaces:
 |--------------|---------------------------------------------|
 | `model.py`   | Defines the GPT model (embedding, attention, layers) |
 | `app.py`     | Gradio interface using the trained model    |
-| `train.py`   | (Optional) Training loop if you want to retrain |
 | `requirements.txt` | Dependencies for running the app      |
 
 ## 💬 How it works
 
-After training the model to a loss of ~1.7 on Shakespeare’s *Coriolanus*, it is deployed as a chatbot using Gradio. It generates text in a Shakespearean style and mimics the format of a stage play.
+After training the model to a loss of 0.098616 on Shakespeare’s *Coriolanus*, it is deployed as a chatbot using Gradio. It generates text in a Shakespearean style and mimics the format of a stage play.
 
-## 📚 Training
 
-```bash
-python train.py
